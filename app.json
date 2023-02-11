@@ -1,0 +1,6 @@
+{
+	"name": "DOCTOR BOT",
+	"description": "WhatsApp Bot Usando como base a Baileys",
+	"logo": "https://node-js-sample.herokuapp.com/node.png",
+	"keywords": ["multi-device"]
+}

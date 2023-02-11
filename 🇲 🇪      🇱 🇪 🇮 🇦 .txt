@@ -1,0 +1,11 @@
+esse bot foi feito pelo zalts
+usando uma base do hacker supremo,
+eu apaguei tudo e refiz o bot
+então deixe os creditos a mim caso vc for divulgar ou 
+postar, instale os comandos iniciais do termux pra usar o bot, caso contrario ira da erro,
+
+essa base sem nenhuma modificação é proibida
+pra venda, se não tiver feito nada na base
+apenas divulgue, não venda! 
+e caso modifique deixe os devidos creditos
+©Copyright_by zalts
